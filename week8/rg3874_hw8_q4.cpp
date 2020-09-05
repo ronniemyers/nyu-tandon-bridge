@@ -19,7 +19,7 @@ int main() {
     cin >> n;
     int arr[n];
     cout << "Enter jump cost: ";
-    
+
     for (int i = 0; i < n; i++) {
         cin >> arr[i];
     }

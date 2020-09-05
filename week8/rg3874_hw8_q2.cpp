@@ -1,4 +1,4 @@
-/* determines if array is sorter */
+/* determines if array is sorted */
 
 #include <iostream>
 #include <cmath>
